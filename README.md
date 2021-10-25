@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansibtri a passionate developer
+- 👋 Hi, I’m Anish Bhattarai a passionate developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full stack web development
 - 📫 How to reach me [Visit](https://www.facebook.com/ansibtri.92351 "Anish Bhattarai")
