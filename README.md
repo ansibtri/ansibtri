@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish Bhattarai a passionate developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full stack web development
-- 📫 How to reach me [Visit](https://www.facebook.com/ansibtri.92351 "Anish Bhattarai")
+- 📫 How to reach me [Visit](https://ansibtri.github.io/ "Anish Bhattarai")
 <!---- 💞️ I’m looking to collaborate on (currently not)--->
 
 <!---
